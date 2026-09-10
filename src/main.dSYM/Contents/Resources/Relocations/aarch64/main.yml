@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/siddhantsachinfursule/Downloads/MiniMacOS_Submission/src/main'
+relocations:     []
+...
